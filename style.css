@@ -1,0 +1,50 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+header {
+    background-color: #2F394d;
+    color: #FCEFEF;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: sticky;
+    top: 0px;
+}
+
+body {
+    background-color: #FCEFEF;
+}
+
+
+nav {
+    background-color: #E2C044 ;
+    color: #2F394D;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: sticky;
+    top: 180px;
+}
+
+#title {
+    font-family: 'Lobster', cursive;
+        font-size: 80px;
+        text-shadow: 2px 2px #42BFDD
+}
+
+#statement {
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.imgsize {
+    height: 160px;
+}
+
+.miniheader {
+    text-align: center;
+}
